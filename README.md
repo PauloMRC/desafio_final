@@ -20,8 +20,8 @@ Importar
 YAML - https://github.com/analiairigoyen/YAMLIGTIEST/blob/main/YAML.txt
 
 Configurar a aplicação
-Repositório
-Pipeline
+Repositório (Aula 3.4)
+Pipeline (Aula 4.4)
 Políticas
 Análise estática de Código
 Feature Toggle
